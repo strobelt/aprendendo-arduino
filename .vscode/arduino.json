@@ -1,6 +1,0 @@
-{
-    "sketch": "007_ponte_H_com_rele\\007_ponte_H_com_rele.ino",
-    "board": "arduino:avr:uno",
-    "programmer": "AVR ISP",
-    "port": "COM3"
-}
