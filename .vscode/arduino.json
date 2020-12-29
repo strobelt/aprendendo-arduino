@@ -1,6 +1,6 @@
 {
-    "port": "COM4",
+    "port": "COM3",
     "board": "arduino:avr:uno",
-    "sketch": "008-DHT11\\008-DHT11.ino",
+    "sketch": "011-teclado-display-7-segmentos\\011-teclado-display-7-segmentos.ino",
     "programmer": "AVRISP mkII"
 }
